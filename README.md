@@ -22,7 +22,7 @@
 ---
 ### React
 
-- *Udacity*
+- **Udacity**
     - [Nanodegree React](https://br.udacity.com/course/react-nanodegree--nd019/)
 
 - Udemy
