@@ -54,7 +54,7 @@
 
 ## Talks
 ---
-- []()
+- [Como o Airbnb Utiliza React Native](https://www.youtube.com/watch?v=8qCociUB6aQ)
 ## Integrações
 ---
 - []()
