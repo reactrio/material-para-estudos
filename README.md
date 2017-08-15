@@ -26,7 +26,7 @@
     - [Modern React with Redux](https://www.udemy.com/react-redux/)
     - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
     - [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO!](https://www.udemy.com/react-redux-pt/)
-    - [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO!](https://www.udemy.com/curso-reactjs-ninja/)
+    - [ Curso React.js Ninja - React Completo](https://www.udemy.com/curso-reactjs-ninja/)
 
 - Alura
     - [Carreira Programador Alura](https://www.alura.com.br/carreira-programador-react)
