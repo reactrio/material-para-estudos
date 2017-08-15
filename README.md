@@ -22,6 +22,9 @@
 ---
 ### React
 
+- *Udacity*
+    - [Nanodegree React](https://br.udacity.com/course/react-nanodegree--nd019/)
+
 - Udemy
     - [Modern React with Redux](https://www.udemy.com/react-redux/)
     - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
@@ -30,9 +33,6 @@
 
 - Alura
     - [Carreira Programador Alura](https://www.alura.com.br/carreira-programador-react)
-
-- Udacity
-    - [Nanodegree React](https://br.udacity.com/course/react-nanodegree--nd019/)
 
 ### React Native
 
