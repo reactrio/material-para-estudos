@@ -52,6 +52,10 @@
 ---
 - [Apresentação voltada para a camada executiva](https://prezi.com/view/6qBhQyoC8Of6dqE3gimV/)
 
+## Soluções Úteis
+---
+- [App em react native não atualiza](https://pt.stackoverflow.com/questions/227847/app-em-react-native-não-atualiza/)
+
 ## Podcast
 ---
 - []()
