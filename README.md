@@ -49,6 +49,7 @@
 - [Quais desafios vou enfrentar ao começar um app com React Native?](https://medium.com/como-dev-ser/quais-desafios-vou-enfrentar-ao-come%C3%A7ar-um-app-com-react-native-a456db89c081)
 
 ## Apresentações
+---
 - [Apresentação voltada para a camada executiva](https://prezi.com/view/6qBhQyoC8Of6dqE3gimV/)
 
 ## Podcast
