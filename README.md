@@ -20,11 +20,12 @@
 
 ## Cursos
 ---
-### React
 
+### React & React Native
 - **Udacity**
     - [Nanodegree React](https://br.udacity.com/course/react-nanodegree--nd019/)
 
+### React
 - Udemy
     - [Modern React with Redux](https://www.udemy.com/react-redux/)
     - [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/)
@@ -44,7 +45,9 @@
 
 ## Artigos
 ---
-* [React Native Training](https://medium.com/react-native-training)
+- [React Native Training](https://medium.com/react-native-training)
+- [Quais desafios vou enfrentar ao começar um app com React Native?](https://medium.com/como-dev-ser/quais-desafios-vou-enfrentar-ao-come%C3%A7ar-um-app-com-react-native-a456db89c081)
+
 ## Podcast
 ---
 - []()
