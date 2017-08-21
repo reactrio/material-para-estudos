@@ -7,6 +7,9 @@
     - [Documentação Oficial do React ](https://facebook.github.io/react/tutorial/tutorial.html)
 - React Native
     - [Documentação Oficial do React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+    
+    --Navigation
+    - [react-navigation](https://reactnavigation.org/docs/intro/)
 - Redux
     - [Introdução ao Redux](https://tableless.com.br/bem-vindo-ao-redux/)  Uma breve explicação sobre a arquitetura Redux e suas principais características 
 - Apollo
