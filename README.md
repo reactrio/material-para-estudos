@@ -49,6 +49,10 @@
     - [ React Native: Advanced Concepts ](https://www.udemy.com/react-native-advanced/)
 
     - [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux/)
+    
+### Programação assíncrona
+- Egghead.io
+    - [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
 
 ## Artigos
 ---
