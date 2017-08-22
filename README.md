@@ -50,6 +50,19 @@
 
     - [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux/)
 
+### React VR
+- Egghead.io
+    - [Build Virtual Reality Experiences Using React VR](https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr?utm_source=drip&utm_medium=email&utm_content=react-vr)
+
+### Redux
+- Egghead.io
+    - [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+    - [Building react applications with idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+    
+### Programação assíncrona
+- Egghead.io
+    - [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
+
 ## Artigos
 ---
 - [React Native Training](https://medium.com/react-native-training)
