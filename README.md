@@ -49,6 +49,11 @@
     - [ React Native: Advanced Concepts ](https://www.udemy.com/react-native-advanced/)
 
     - [Desenvolvedor Multiplataforma Android/IOS com React e Redux](https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux/)
+
+### Redux
+- Egghead.io
+    - [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+    - [Building react applications with idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
     
 ### Programação assíncrona
 - Egghead.io
