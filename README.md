@@ -8,6 +8,12 @@
 - React Native
     - [Documentação Oficial do React Native](https://facebook.github.io/react-native/docs/getting-started.html)
     - [Navegação entre Components (react-navigation)](https://reactnavigation.org/docs/intro/)
+    - Expo
+        - [Considerações](https://docs.expo.io/versions/latest/index.html)
+        - [Expo SDK](https://docs.expo.io/versions/latest/sdk/index.html#expo-sdk)
+        - [Project Lifecycle](https://docs.expo.io/versions/latest/introduction/project-lifecycle.html)
+        - [Instalação](https://docs.expo.io/versions/latest/introduction/installation.html)
+        - [Tutorial de utilização](https://docs.expo.io/versions/latest/guides/up-and-running.html)
 - Redux
     - [Introdução ao Redux](https://tableless.com.br/bem-vindo-ao-redux/)  Uma breve explicação sobre a arquitetura Redux e suas principais características 
 - Apollo
