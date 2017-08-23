@@ -16,6 +16,9 @@
         - [Tutorial de utilização](https://docs.expo.io/versions/latest/guides/up-and-running.html)
 - Redux
     - [Introdução ao Redux](https://tableless.com.br/bem-vindo-ao-redux/)  Uma breve explicação sobre a arquitetura Redux e suas principais características 
+- NativeBase
+    -[Documentação Oficial](https://docs.nativebase.io/#Introduction)
+    -[Compatibilidade](https://docs.nativebase.io/docs/Compatibility.html)
 - Apollo
     - []()
 - Relay
