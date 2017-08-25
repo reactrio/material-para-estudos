@@ -86,6 +86,7 @@
 ## Talks
 ---
 - [Como o Airbnb Utiliza React Native](https://www.youtube.com/watch?v=8qCociUB6aQ)
+- [Alura Live - Christiano Milfont falando sobre React, front-end e as tendências do mercado](https://www.facebook.com/AluraCursosOnline/videos/1427957837318789/)
 ## Integrações
 ---
 - []()
