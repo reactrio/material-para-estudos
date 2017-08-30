@@ -80,7 +80,7 @@
 - [App em react native não atualiza](https://pt.stackoverflow.com/questions/227847/app-em-react-native-não-atualiza/)
 - Configurando emmet para atuar no jsx
     - É necessário colocar a seguinte propriedade no arquivo **settings.json**:
-    - ``emmet.syntaxProfiles": { "javascript": "html" }``
+        - ``emmet.syntaxProfiles": { "javascript": "html" }``
 
 ## Podcast
 ---
