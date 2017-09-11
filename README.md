@@ -19,14 +19,8 @@
 - NativeBase
     - [Documentação Oficial](https://docs.nativebase.io/#Introduction)
     - [Compatibilidade](https://docs.nativebase.io/docs/Compatibility.html)
-- Apollo
-    - []()
-- Relay
-    - []()
-- GraphQL
-    - []()
-- Mobx
-    - []()
+- PWA
+    - [Build your first **P**rogressive **W**eb **A**pp with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd)
 
 ## Cursos
 ---
@@ -90,6 +84,7 @@
 ---
 - [Como o Airbnb Utiliza React Native](https://www.youtube.com/watch?v=8qCociUB6aQ)
 - [Alura Live - Christiano Milfont falando sobre React, front-end e as tendências do mercado](https://www.facebook.com/AluraCursosOnline/videos/1427957837318789/)
+- [Why you should build a Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
 ## Integrações
 ---
 - []()
