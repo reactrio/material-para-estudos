@@ -68,6 +68,7 @@
 ## Apresentações
 ---
 - [Apresentação voltada para a camada executiva](https://prezi.com/view/6qBhQyoC8Of6dqE3gimV/)
+- [Understanding Flexbox in React Native](https://www.youtube.com/watch?v=7_yRrrDMCwQ)
 
 ## Soluções Úteis
 ---
