@@ -40,6 +40,8 @@
     - [Carreira Programador Alura](https://www.alura.com.br/carreira-programador-react)
 
 ### React Native
+- Felipe Aron
+    - [React Native Do Zero Ao Profissional ](http://felipearon.com.br/curso-react-native?hotlinks=plus&src=btnArtigo)
 
 - Udemy
     - [The Complete React Native and Redux Course ](https://www.udemy.com/the-complete-react-native-and-redux-course/)
