@@ -5,6 +5,7 @@
 ## Tutoriais
 - React
     - [Documentação Oficial do React ](https://facebook.github.io/react/tutorial/tutorial.html)
+    - [Exercícios do freeCodeCamp que ainda não estão no site](http://hysterical-amusement.surge.sh/)
 - React Native
     - [Documentação Oficial do React Native](https://facebook.github.io/react-native/docs/getting-started.html)
     - [Navegação entre Components (react-navigation)](https://reactnavigation.org/docs/intro/)
